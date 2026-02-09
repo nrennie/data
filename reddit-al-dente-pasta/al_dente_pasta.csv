@@ -1,0 +1,32 @@
+pasta,box_min,box_max,actual,difference,actual_decimal,difference_decimal
+Capellini,4,5,2:45,-1:15,2.75,-1.25
+Angel Hair,4,5,3:00,-1:00,3,-1
+Spaghetti,8,10,7:15,-0:45,7.25,-0.75
+Linguine,9,11,8:00,-1:00,8,-1
+Fettuccine,10,12,8:30,-1:30,8.5,-1.5
+Bucatini,10,12,9:00,-1:00,9,-1
+Pappardelle,7,9,6:00,-1:00,6,-1
+Tagliatelle,8,10,7:00,-1:00,7,-1
+Penne,11,13,9:30,-1:30,9.5,-1.5
+Penne Rigate,11,13,10:00,-1:00,10,-1
+Rigatoni,12,15,9:15,-2:45,9.25,-2.75
+Ziti,14,15,11:00,-3:00,11,-3
+Macaroni,8,10,7:00,-1:00,7,-1
+Rotini,8,10,7:30,-0:30,7.5,-0.5
+Fusilli,11,13,9:00,-2:00,9,-2
+Gemelli,10,12,8:30,-1:30,8.5,-1.5
+Cavatappi,9,12,8:00,-1:00,8,-1
+Campanelle,10,12,8:30,-1:30,8.5,-1.5
+Radiatori,9,11,8:00,-1:00,8,-1
+Orecchiette,12,15,10:30,-1:30,10.5,-1.5
+Shells (Medium),9,11,8:00,-1:00,8,-1
+Shells (Large),12,15,10:00,-2:00,10,-2
+Conchiglie,10,12,8:30,-1:30,8.5,-1.5
+Orzo,8,10,7:00,-1:00,7,-1
+Ditalini,9,11,8:00,-1:00,8,-1
+Paccheri,12,14,10:30,-1:30,10.5,-1.5
+Casarecce,10,12,9:00,-1:00,9,-1
+Trofie,10,12,8:30,-1:30,8.5,-1.5
+Strozzapreti,10,12,9:00,-1:00,9,-1
+Mafalda,8,10,7:30,-0:30,7.5,-0.5
+Farfalle,11,13,NA,NA,NA,NA
